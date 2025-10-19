@@ -22,7 +22,8 @@ struct EarHealthTimerApp: App {
             fatalError("Could not create ModelContainer: \(error)")
         }
     }()
-
+    
+    @NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     var body: some Scene {
         WindowGroup {
             ContentView()
