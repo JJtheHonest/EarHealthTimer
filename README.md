@@ -1,4 +1,7 @@
-# 🎧 EarHealthTimer
+<div align="center">
+    <img src="EarHealthTimer/Assets.xcassets/AppIcon.appiconset/AppIcon@256.png" width=200 height=200>
+    <h1>EarHealthTimer</h1>
+</div>
 
 **EarHealthTimer** 是一款专注于保护耳道健康的 macOS 应用程序。  
 它会在你长时间佩戴入耳式耳机时自动检测佩戴时长，并在达到设定时间后提醒你休息，让你的听力与耳道得到充分恢复。
